@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://report-soft.github.io/kasagama-website/sitemap.xml
